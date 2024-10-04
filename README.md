@@ -76,3 +76,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 Este es un cambio nuevo aaaaaa fjdlsfjasdjlsdkfjd
 
+Emma Malo

@@ -74,4 +74,5 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-Este es un cambio nuevo fjdlsfjasdjlsdkfjd
+Este es un cambio nuevo aaaaaa fjdlsfjasdjlsdkfjd
+
